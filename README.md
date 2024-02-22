@@ -2,7 +2,7 @@
 
 ![Active Directory lab](https://imgur.com/q23hpCu.gif)
 <br><br>
-![Active Directory lab2](https://imgur.com/q23hpCu.gi)
+![Active Directory lab2](https://imgur.com/q23hpCu.gif)
 
 
 ## Introduction
