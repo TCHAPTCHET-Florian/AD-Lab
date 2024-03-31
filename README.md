@@ -1,6 +1,6 @@
 # Active Directory Lab Project
 
-![Active Directory lab](https://imgur.com/q23hpCu.gif)
+![Active Directory lab](https://github.com/TCHAPTCHET-Florian/files/blob/main/Arch_AD.gif)
 <br><br>
 <!-- ![Active Directory lab2](https://imgur.com/q23hpCu.gif) -->
 
